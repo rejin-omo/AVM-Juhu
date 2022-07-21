@@ -1,3 +1,5 @@
+![alt text](https://onmyowntechnology.com/omotec/omotec_logo.png)
+
 ### AVM
 
 1. Please use the files in this repo as reference.
